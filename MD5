@@ -1,0 +1,14 @@
+5a317861ca400bc013eb8fa7893cbbe3 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+8494f7bee37f0bc448f3b918bf77bc02 *R/optimalAUC_functions.R
+2610662fd36d01c961e554b6156c70f9 *man/AUC.Rd
+5cf0dad3532b1aa8a59fe3aab802bdbf *man/AUC.emp.Rd
+68d95e793f4ff3397d0f811d36638f27 *man/beta2theta.Rd
+ad8573c4c895afee2d2c5d085d5f7e9f *man/betahat.Rd
+73b415f40c128d160929c7ad78cb1729 *man/gradAUC.Lang.Rd
+35eaadc63650fdb26b783d4b76c410b5 *man/gradsqr.Rd
+a8a09e7d77a5600ca801732d6628bb85 *man/hessAUC.Rd
+5e0943572b75d7409808320fc99c410a *man/nlsolve.Rd
+8f4e7e92d81afa4a5defc675f6d9cfdf *man/optAUC-package.Rd
+71686384084280c831d6184688023c93 *man/optAUC.Rd
+5c44f97a417f1aa0c0daa83768e42c86 *man/theta2beta.Rd
